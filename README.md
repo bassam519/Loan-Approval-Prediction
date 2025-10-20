@@ -1,4 +1,4 @@
-# ML-Loan-Approval-Prediction 🏦
+# Loan-Approval-Prediction 🏦
 
 ## Overview
 This project focuses on building and comparing machine learning models to predict the **loan approval status** of applicants. The goal is to assist financial institutions in automating and improving their decision-making process for loan applications by identifying key predictors and selecting the best-performing model.
